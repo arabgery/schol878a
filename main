@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Дневник 8-А</title>
+	<style type="text/css">
+		
+	h1 {
+		padding-left: 490px;
+		background: #023;
+  		color: #fff;
+  		font-size: 50px;
+	}
+
+	h2 {
+		padding-left: 730px;
+		background: #023;
+  		color: #fff;
+	}
+
+	p {
+		font-size: 60px ;
+		padding-left: 670px;
+	}
+
+	table {
+		font-size: 20.86px;
+	}
+
+	</style>
+</head>
+<body>
+
+<h1> Дневник школы номер 87 </h1>
+<h2> 8 А класс </h2>
+
+<p>Алгебра</p>
+<table border="1">
+	<thead>
+		<tr>
+			<th colspan="31">
+				Дата
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr> 
+			<td>
+				Фамилия
+			</td>
+			<td> 
+				1.09 
+			</td>
+			<td> 
+				2.09 
+			</td>
+			<td> 
+				3.09 
+			</td>
+			<td> 
+				4.09 
+			</td>
+			<td> 
+				5.09 
+			</td>
+			<td> 
+				6.09 
+			</td>
+			<td> 
+				7.09 
+			</td>
+			<td> 
+				8.09 
+			</td>
+			<td> 
+				9.09 
+			</td>
+			<td> 
+				10.09 
+			</td>
+			<td> 
+				11.09 
+			</td>
+			<td> 
+				12.09 
+			</td>
+			<td> 
+				13.09 
+			</td>
+			<td> 
+				14.09 
+			</td>
+			<td> 
+				15.09 
+			</td>
+			<td> 
+				16.09 
+			</td>
+			<td> 
+				17.09 
+			</td>
+			<td> 
+				18.09 
+			</td>
+			<td> 
+				19.09 
+			</td>
+			<td> 
+				20.09 
+			</td>
+			<td> 
+				21.09 
+			</td>
+			<td> 
+				22.09 
+			</td>
+			<td> 
+				23.09 
+			</td>
+			<td> 
+				24.09 
+			</td>
+			<td> 
+				25.09 
+			</td>
+			<td> 
+				26.09 
+			</td>
+			<td> 
+				27.09 
+			</td>
+			<td> 
+				28.09 
+			</td>
+			<td> 
+				29.09 
+			</td>
+			<td> 
+				30.09 
+			</td>
+		</tr>
+		<tr>
+			<th> Сергей Авдиенко </th>
+			<td>
+				
+			</td>
+			<td>
+				7
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				6
+			</td>
+			<td>
+				5
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				7
+			</td>
+			<td>
+				4
+			</td>
+			<td>
+				3
+			</td>
+			<td>
+				3
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				3
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				3
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				4
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				6
+			</td>
+		</tr>
+		<tr>
+			<th> Белый Назар </th>
+			<td>
+				
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				2
+			</td>
+
+			<td>
+				2
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				1
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				2
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>
